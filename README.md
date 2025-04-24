@@ -15,3 +15,14 @@ Details of the task can be found once you have rendered the website.
    git clone https://github.com/YOUR_USERNAME/Frontend-Test.git
 3. Work on the code following requirements on the page.
 4. Once you finished your code, please email us the link to your GitHub repo for us to review.
+
+## Todo List Manual
+
+### Features
+
+- Add new to-do items via input box
+- Display list of all tasks
+- Delete individual items
+- Edit items by double-clicking on them
+- Error handling for empty input
+- Responsive layout for mobile and desktop screens
